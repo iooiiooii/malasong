@@ -3,10 +3,10 @@
 
 # 设计（基于手头材料）
 简述：DL(PaddlePaddle)>Macbook>Arduino>RC>GoProWirelessHack>DL(PaddlePaddle)。RC体积小，无法承载笔记本电脑，所以采用GoPro无线回传图像数据，电脑计算数据后通过Arduino控制RC遥控器修正路线，从而实现无人驾驶
-![untitled-1](https://cloud.githubusercontent.com/assets/25008736/22008938/86215970-dcba-11e6-81f3-16c509ceb0d3.gif)
+![Driverless RC Car](https://cloud.githubusercontent.com/assets/25008736/22008938/86215970-dcba-11e6-81f3-16c509ceb0d3.gif)
 
 # 示意图
-![2017-01-16 17_08_32](https://cloud.githubusercontent.com/assets/25008736/22009164/217dec84-dcbc-11e6-9d7e-ea10b10495ef.gif)
+![2017](https://cloud.githubusercontent.com/assets/25008736/22012978/a5d50caa-dcd1-11e6-9c36-e2cea3707433.gif)
 
 
 ## 参考：
