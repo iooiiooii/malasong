@@ -1,5 +1,10 @@
 # malasong
-基于深度学习的极简版无人车
+基于深度学习的极简版无人车项目
+
+# 实现方式（基于手头材料）
+
+# 示意图
+
 
 ## 参考：
 - GoPro session 与计算机通信 https://github.com/KonradIT/goprowifihack
