@@ -6,7 +6,8 @@
 ![untitled-1](https://cloud.githubusercontent.com/assets/25008736/22008938/86215970-dcba-11e6-81f3-16c509ceb0d3.gif)
 
 # 示意图
-![2017-01-16 17_08_32](https://cloud.githubusercontent.com/assets/25008736/22008757/eb9857e2-dcb8-11e6-992b-98aba37fdf42.gif)
+![2017-01-16 17_08_32](https://cloud.githubusercontent.com/assets/25008736/22009164/217dec84-dcbc-11e6-9d7e-ea10b10495ef.gif)
+
 
 ## 参考：
 - GoPro session 与计算机通信 https://github.com/KonradIT/goprowifihack
